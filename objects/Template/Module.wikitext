@@ -1,0 +1,7 @@
+<includeonly>{{METADATA|Keywords={{{HasKeyword|}}}|HasEntityTitle={{{HasEntityTitle}}}|HasEntityBlurb={{{HasEntityBlurb|}}}|HasEntityType=Module}}
+{{Annotation
+  |AnnotationPredicate=AssignedToTimeSlot
+  |AnnotationObjects={{{AssignedToTimeSlot|}}}
+}}
+</includeonly>
+<noinclude>[[Category:ConferenceManagementOntology]]</noinclude>

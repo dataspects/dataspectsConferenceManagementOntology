@@ -1,0 +1,7 @@
+{{{info|add title=New Module|edit title=Edit Module|page name=C<unique number;random;10>}}}
+{{FormHeader|Module}}
+  !AssignedToTimeSlot
+  |{{{field|AssignedToTimeSlot|input type=text}}}
+{{StandardFormSections}}
+{{FormFooter|Untyped}}
+<noinclude>[[Category:ConferenceManagementOntology]]</noinclude>
