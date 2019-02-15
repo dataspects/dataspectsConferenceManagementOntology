@@ -1,5 +1,5 @@
 {{{info|add title=New Participant|edit title=Edit Participant|page name=C<unique number;random;10>}}}
 {{FormHeader|Participant}}
 {{StandardFormSections}}
-{{FormFooter|Untyped}}
+{{FormFooter}}
 <noinclude>[[Category:ConferenceManagementOntology]]</noinclude>

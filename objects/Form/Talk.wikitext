@@ -1,5 +1,5 @@
 {{{info|add title=New Talk|edit title=Edit Talk|page name=C<unique number;random;10>}}}
 {{FormHeader|Talk}}
 {{StandardFormSections}}
-{{FormFooter|Untyped}}
+{{FormFooter}}
 <noinclude>[[Category:ConferenceManagementOntology]]</noinclude>

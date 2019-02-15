@@ -3,5 +3,5 @@
   !AssignedToTimeSlot
   |{{{field|AssignedToTimeSlot|input type=text}}}
 {{StandardFormSections}}
-{{FormFooter|Untyped}}
+{{FormFooter}}
 <noinclude>[[Category:ConferenceManagementOntology]]</noinclude>

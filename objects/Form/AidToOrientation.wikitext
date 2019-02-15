@@ -1,0 +1,5 @@
+{{{info|add title=New AidToOrientation|edit title=Edit AidToOrientation|page name=C<unique number;random;10>}}}
+{{FormHeader|AidToOrientation}}
+{{StandardFormSections}}
+{{FormFooter}}
+<noinclude>[[Category:ConferenceManagementOntology]]</noinclude>
