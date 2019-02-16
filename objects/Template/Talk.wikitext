@@ -1,3 +1,7 @@
 <includeonly>{{METADATA|Keywords={{{HasKeyword|}}}|HasEntityTitle={{{HasEntityTitle}}}|HasEntityBlurb={{{HasEntityBlurb|}}}|HasEntityType=Talk}}
+{{Annotation
+  |AnnotationPredicate=HeldBy
+  |AnnotationObjects={{{HeldBy|}}}
+}}
 </includeonly>
 <noinclude>[[Category:ConferenceManagementOntology]]</noinclude>

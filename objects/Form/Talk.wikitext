@@ -1,5 +1,7 @@
 {{{info|add title=New Talk|edit title=Edit Talk|page name=C<unique number;random;10>}}}
 {{FormHeader|Talk}}
+  !HeldBy
+  |{{{field|HeldBy|input type=dropdown|values from category=Participant}}}
 {{StandardFormSections}}
 {{FormFooter}}
 <noinclude>[[Category:ConferenceManagementOntology]]</noinclude>

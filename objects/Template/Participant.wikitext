@@ -1,7 +1,6 @@
 <includeonly>{{METADATA|Keywords={{{HasKeyword|}}}|HasEntityTitle={{{HasEntityTitle}}}|HasEntityBlurb={{{HasEntityBlurb|}}}|HasEntityType=Participant}}
-{{Annotation
-  |AnnotationPredicate=HasEmailAddress
-  |AnnotationObjects={{{HasEmailAddress|}}}
-}}
+{{Annotation|AnnotationPredicate=HasEmailAddress|AnnotationObjects={{{HasEmailAddress|}}}}}
+== Talks ==
+{{#ask:[[HeldBy::{{PAGENAME}}]]}}
 </includeonly>
 <noinclude>[[Category:ConferenceManagementOntology]]</noinclude>
