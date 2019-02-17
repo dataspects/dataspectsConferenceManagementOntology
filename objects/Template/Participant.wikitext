@@ -2,5 +2,7 @@
 {{Annotation|AnnotationPredicate=HasEmailAddress|AnnotationObjects={{{HasEmailAddress|}}}}}
 == Talks ==
 {{#ask:[[HeldBy::{{PAGENAME}}]]}}
+== Management responsibilities ==
+{{#ask:[[ManagedBy::{{PAGENAME}}]]}}
 </includeonly>
 <noinclude>[[Category:ConferenceManagementOntology]]</noinclude>

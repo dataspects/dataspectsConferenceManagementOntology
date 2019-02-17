@@ -1,0 +1,5 @@
+{{{info|add title=New Slogan|edit title=Edit Slogan|page name=C<unique number;random;10>}}}
+{{FormHeader|Slogan}}
+{{StandardFormSections}}
+{{FormFooter}}
+<noinclude>[[Category:ConferenceManagementOntology]]</noinclude>
