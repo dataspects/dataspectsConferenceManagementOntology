@@ -1,7 +1,7 @@
 {{{info|add title=New AidToOrientation|edit title=Edit AidToOrientation|page name=C<unique number;random;10>}}}
 {{FormHeader|AidToOrientation}}
-  !ManagedBy
-  |{{{field|ManagedBy|input type=dropdown|values from category=Participant}}}
+  !IsManagedBy
+  |{{{field|IsManagedBy|input type=dropdown|values from category=Participant}}}
 {{StandardFormSections}}
 {{FormFooter}}
 <noinclude>[[Category:ConferenceManagementOntology]]</noinclude>

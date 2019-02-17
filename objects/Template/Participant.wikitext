@@ -1,8 +1,5 @@
 <includeonly>{{METADATA|Keywords={{{HasKeyword|}}}|HasEntityTitle={{{HasEntityTitle}}}|HasEntityBlurb={{{HasEntityBlurb|}}}|HasEntityType=Participant}}
 {{Annotation|AnnotationPredicate=HasEmailAddress|AnnotationObjects={{{HasEmailAddress|}}}}}
-== Talks ==
-{{#ask:[[HeldBy::{{PAGENAME}}]]}}
-== Management responsibilities ==
-{{#ask:[[ManagedBy::{{PAGENAME}}]]}}
+{{AnnotationsForTHISAsAnObject}}
 </includeonly>
 <noinclude>[[Category:ConferenceManagementOntology]]</noinclude>

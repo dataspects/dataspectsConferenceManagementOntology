@@ -1,4 +1,4 @@
 <includeonly>{{METADATA|Keywords={{{HasKeyword|}}}|HasEntityTitle={{{HasEntityTitle}}}|HasEntityBlurb={{{HasEntityBlurb|}}}|HasEntityType=AidToOrientation}}
-{{Annotation|AnnotationPredicate=ManagedBy|AnnotationObjects={{{ManagedBy|}}}}}
+{{Annotation|AnnotationPredicate=IsManagedBy|AnnotationObjects={{{IsManagedBy|}}}}}
 </includeonly>
 <noinclude>[[Category:ConferenceManagementOntology]]</noinclude>
